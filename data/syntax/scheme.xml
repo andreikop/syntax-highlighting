@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE language SYSTEM "language.dtd">
-<language version="6" kateversion="5.0" name="Scheme" section="Scripts" extensions="*.scm;*.ss;*.scheme;*.guile" mimetype="text/x-scheme" author="Dominik Haumann (dhaumann@kde.org)" license="MIT" priority="9">
+<language version="6" kateversion="5.0" name="Scheme" section="Scripts" extensions="*.scm;*.ss;*.scheme;*.guile" mimetype="text/x-scheme" author="Dominik Haumann (dhaumann@kde.org)" license="MIT" priority="9"
+  indenter="scheme"
+  >
   <highlighting>
     <list name="operators">
       <item>&lt;=</item>
